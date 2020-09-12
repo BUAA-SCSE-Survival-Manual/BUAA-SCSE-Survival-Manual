@@ -76,6 +76,10 @@ Learn enough tech to be dangerous
 * [数值最优化笔记](https://zhuanlan.zhihu.com/p/53882647)
 * 《[Convex Optimization](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1888111/)》
 
+### 信息论
+
+[https://www.zhihu.com/question/44110295/answer/1201169774](https://www.zhihu.com/question/44110295/answer/1201169774)
+
 **其他**
 
 * 《数学悖论与三次数学危机》讲数学史，围绕数学史上促使数学发展的悖论，讲述为什么我们现在的数学体系是现在这个样子，很推荐作为数学科普读物。
@@ -169,6 +173,7 @@ Learn enough tech to be dangerous
 * 哈佛大学: **积极心理学**，公开课，又称作&lt;幸福课&gt;， 学会如何变得更加快乐，很推荐。
 * 中国哲学史 冯友兰
 * 影响力 罗伯特•B•西奥迪尼
+* 与原生家庭和解，爱丽丝.米勒 瑞士
 
 ### 三、好用的工具
 
@@ -185,6 +190,7 @@ Learn enough tech to be dangerous
 * 乔明达
 * 戴文渊
 * 唐文斌
+*  **Jure Leskovec**
 
 ### 开源书单
 
