@@ -9,7 +9,7 @@ description: 你航贵系学生生存手册，由计院学生自发维护，目�
 ### 主要目录
 
 * [构建思路](gou-jian-si-lu-gei-bian-ji-zhe.md)
-* [一些常识](yi-xie-chang-shi.md)
+* [一些常识](yi-xie-chang-shi/)
 * [课内\|科研\|就业\|竞赛\|出国](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/)
   * [课内](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-nei-gpa-dang.md)
   * [科研](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-yan-ban-zhuan-dang.md)
