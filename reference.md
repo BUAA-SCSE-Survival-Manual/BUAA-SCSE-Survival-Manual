@@ -12,7 +12,6 @@ description: 你也在网上冲浪啊
 *  [清华大学计算机系与普通大学计算机系有什么区别？](https://www.zhihu.com/question/25715002/answer/78964059)
 *  [清华大学计算机专业本科这位在「自己写的 CPU 上运行自己写的操作系统」的同学是什么水平？](https://www.zhihu.com/question/345718537/answer/822026274)
 * \*\*\*\*[**在MIT，这一年**](https://zhuanlan.zhihu.com/p/89901845)\*\*\*\*
-* \*\*\*\*[**《**_**线性代数**_**》（同济版）——教科书中的耻辱柱**](https://zhuanlan.zhihu.com/p/199665495)\*\*\*\*
 
 ### 江湖传说
 
