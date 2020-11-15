@@ -18,6 +18,7 @@
   * [耻辱柱](yong-yuan-bu-gai-wang-ji/chi-ru-zhu.md)
   * [垃圾课](yong-yuan-bu-gai-wang-ji/la-ji-ke.md)
   * [恶心事](yong-yuan-bu-gai-wang-ji/e-xin-shi.md)
+  * [东流水](yong-yuan-bu-gai-wang-ji/dong-liu-shui.md)
 * [一份书单](yi-fen-shu-dan.md)
 * [Reference](reference.md)
 * [TODO](untitled.md)

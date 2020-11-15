@@ -4,8 +4,6 @@ description: 如果你觉得教材不那么好，那么也许可以选择些别�
 
 # 一份书单
 
-
-
 ```text
 Learn enough tech to be dangerous
 ```
@@ -22,6 +20,7 @@ Learn enough tech to be dangerous
 
 * [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/), 必读, 神书
 * [清华大学操作系统实验课ucore](https://github.com/chyyuu/ucorebook_code)
+* 现代操作系统
 
 #### 3.面向对象程序设计
 
@@ -173,7 +172,7 @@ Learn enough tech to be dangerous
 * 哈佛大学: **积极心理学**，公开课，又称作&lt;幸福课&gt;， 学会如何变得更加快乐，很推荐。
 * 中国哲学史 冯友兰
 * 影响力 罗伯特•B•西奥迪尼
-* 与原生家庭和解，爱丽丝.米勒 瑞士
+* 与原生家庭和解，爱丽丝.米勒 瑞士，其实或许我们都该看看这本书，对我自己是有帮助的。
 
 ### 三、好用的工具
 
