@@ -4,6 +4,8 @@ description: 你航贵系学生生存手册，由计院学生自发维护，目�
 
 # 欢迎来到 BUAA-SCSE
 
+### gitbook-link: [https://butub-1.gitbook.io/buaa-scse-survival-manual/](https://butub-1.gitbook.io/buaa-scse-survival-manual/)
+
 ### [构建初衷](gou-jian-chu-zhong.md)
 
 ### 主要目录
@@ -16,6 +18,7 @@ description: 你航贵系学生生存手册，由计院学生自发维护，目�
   * [就业](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/jiu-ye-lao-qian-dang.md)
   * [竞赛](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/jing-sai-shua-ti-dang.md)
   * [出国](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/chu-guo-shen-me-dang.md)
+* [永远不该忘记](yong-yuan-bu-gai-wang-ji/)
 * [一份书单](yi-fen-shu-dan.md)
 * [Reference](reference.md)
 * [TODO](untitled.md)
