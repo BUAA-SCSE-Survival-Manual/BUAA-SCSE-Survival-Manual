@@ -8,6 +8,7 @@ description: 你也在网上冲浪啊
 
 ### 不谈教育
 
+* \*\*\*\*[**浅谈清华学风、课程内卷、特奖与其他**](https://mp.weixin.qq.com/s/QZHvnRcICYpq8411PxJ78g)\*\*\*\*
 * \*\*\*\*[**贺舒婷：你凭什么上北大**](https://zhuanlan.zhihu.com/p/46142208)\*\*\*\*
 *  [清华大学计算机系与普通大学计算机系有什么区别？](https://www.zhihu.com/question/25715002/answer/78964059)
 *  [清华大学计算机专业本科这位在「自己写的 CPU 上运行自己写的操作系统」的同学是什么水平？](https://www.zhihu.com/question/345718537/answer/822026274)
