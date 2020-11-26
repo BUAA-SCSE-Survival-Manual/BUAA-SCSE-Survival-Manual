@@ -8,6 +8,7 @@
   * [课内压力](yi-xie-chang-shi/ke-nei-ya-li.md)
   * [实验室科研概况](yi-xie-chang-shi/shi-yan-shi-ke-yan-gai-kuang.md)
   * [出国](yi-xie-chang-shi/chu-guo.md)
+  * [普遍存在的一些问题](yi-xie-chang-shi/pu-bian-cun-zai-de-yi-xie-wen-ti.md)
 * [课内 \| 科研 \| 就业 \| 竞赛 \| 出国](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/README.md)
   * [课内-GPA党](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-nei-gpa-dang.md)
   * [科研-搬砖党](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-yan-ban-zhuan-dang.md)
