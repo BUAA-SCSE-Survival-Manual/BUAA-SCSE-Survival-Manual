@@ -13,14 +13,14 @@ Learn enough tech to be dangerous
 #### 1.计算机组成原理
 
 * 《计算机组成与设计: 软硬件接口》相对清晰简单，主要基于Mips
-* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132) 又称作 CSAPP
+* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132) 又称作 CSAPP，有助于计算机应用的整个pipeline
 * **《编码：隐匿在计算机软硬件背后的语言》**
 
 #### 2.操作系统
 
 * [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/), 必读, 神书
 * [清华大学操作系统实验课ucore](https://github.com/chyyuu/ucorebook_code)
-* 现代操作系统
+* 现代操作系统 原理与实现
 
 #### 3.面向对象程序设计
 
@@ -42,6 +42,7 @@ Learn enough tech to be dangerous
 
 * 教材 《计算机网络 谢希仁》，写的一般，只是够用，做了计算机网络实验才能明白书上在说啥。
 * 《计算机网络：自顶向下》听说比教材好一些。
+* 《图解TCP/IP》比较不错的讲解TCP/IP的书，必读。就300页。
 
 #### 6.数理基础
 
@@ -135,7 +136,7 @@ Learn enough tech to be dangerous
 
 **C++**
 
-* 《C++ Primer》
+* 《C++ Primer》比 C++Primer Plus 要好不少
 * 《C++ Primer Plus》读完半本，觉得一般，比较繁琐。
 
 **ruby 小众**
