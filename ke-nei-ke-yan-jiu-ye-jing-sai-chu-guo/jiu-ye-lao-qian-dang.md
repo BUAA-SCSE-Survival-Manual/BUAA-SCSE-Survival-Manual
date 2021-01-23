@@ -26,15 +26,22 @@ description: 那就捞呗
 
    **去大厂， 先刷题。**
 
-   把算法题刷够哈， 计算机基础也背背。
+   把**算法题**刷够哈， **计算机基础**也背背。
 
-   算法题其实完全不用畏难，都是套路。即便完全看着答案copy，先刷几十道，肯定就会有感觉，大概刷到100+的时候，会有一定把握。
+   算法题其实完全不用畏难，都是套路。即便完全看着答案copy，先刷几十道，肯定就会有感觉，大概刷到100+的时候，会有一定把握。基本上刷到两三百题，能够到达一个大厂的基本准入门槛。
 
-开源刷题笔记：
+   **简历**很重要，**心态**放平和。
 
-* [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-* leetcode
-* 牛客网
+Reference：
+
+* [leetcode](https://leetcode-cn.com/) 有优质的题目和题解
+* [牛客网](https://www.nowcoder.com/) 有优质的面试经验和大量内推机会，部分大厂会直接在牛客网进行面试，比如字节、商汤。
+* 优质的刷题笔记
+  * [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+  * [https://github.com/changgyhub/leetcode\_101](https://github.com/changgyhub/leetcode_101)
+* [CS-NOTE](http://www.cyc2018.xyz/)
+
+
 
 
 
