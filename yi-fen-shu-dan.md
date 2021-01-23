@@ -13,7 +13,7 @@ Learn enough tech to be dangerous
 #### 1.计算机组成原理
 
 * 《计算机组成与设计: 软硬件接口》相对清晰简单，主要基于Mips
-* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132) 又称作 CSAPP，有助于计算机应用的整个pipeline
+* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132) 又称作 CS：APP，必读。
 * **《编码：隐匿在计算机软硬件背后的语言》**
 
 #### 2.操作系统
@@ -102,7 +102,7 @@ Learn enough tech to be dangerous
 
 > 江湖上仍然流传着他们的传说
 
-可以看一看一些公众号文章入门，[https://zhuanlan.zhihu.com/p/39508502](https://zhuanlan.zhihu.com/p/39508502)， 感受一下技术的美感
+可以看一看一些公众号文章入门， 感受一下技术的美感
 
 * CTF竞赛, 靶场
   * see [https://www.zhihu.com/question/406929241/answer/1364968559](https://www.zhihu.com/question/406929241/answer/1364968559)
