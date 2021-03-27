@@ -5,7 +5,7 @@ description: 他们已经离去了 R.I.P
 # 东流水
 
 * 2019年
-  * [_**北航**_**2018级女研究生**_**自杀**_](https://zhuanlan.zhihu.com/p/88139041)\*\*\*\*
+  * [北航2018级女研究生自杀](https://zhuanlan.zhihu.com/p/88139041)
 * 2020年 
   * [北航11月11日一名同学在图书馆晕倒，目前情况如何?](https://www.zhihu.com/question/430003489)
 
