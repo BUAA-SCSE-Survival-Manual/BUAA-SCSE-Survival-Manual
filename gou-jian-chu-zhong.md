@@ -4,7 +4,6 @@ description: '教育不是把桶灌满，而是把火点燃 : )'
 
 # 构建初衷
 
-{% file src=".gitbook/assets/shang-jiao-sheng-cun-shou-ce.pdf" %}
 
 　　部分灵感来自于[《上交生存手册》](https://link.zhihu.com/?target=http%3A//www.houxiaodi.com/assets/misc/manual.pdf)， 感谢这些先行者的贡献。文中对我国教育制度已有见地，所以我们并不去讨论什么好坏对错，只关注如何在计算机学院: **生存下去，然后迎接更好的明天 !  以及..你根本想不到我们踩过多少坑！！！**
 

@@ -10,7 +10,7 @@
   * [出国](yi-xie-chang-shi/chu-guo.md)
   * [一些好习惯](yi-xie-chang-shi/yi-xie-hao-xi-guan.md)
   * [普遍存在的一些问题](yi-xie-chang-shi/pu-bian-cun-zai-de-yi-xie-wen-ti.md)
-* [课内 \| 科研 \| 就业 \| 竞赛 \| 出国](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/README.md)
+* [课内 | 科研 | 就业 | 竞赛 | 出国](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/README.md)
   * [课内-GPA党](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-nei-gpa-dang.md)
   * [科研-搬砖党](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/ke-yan-ban-zhuan-dang.md)
   * [就业-捞钱党](ke-nei-ke-yan-jiu-ye-jing-sai-chu-guo/jiu-ye-lao-qian-dang.md)
@@ -23,6 +23,7 @@
   * [东流水](yong-yuan-bu-gai-wang-ji/dong-liu-shui.md)
 * [一份书单](yi-fen-shu-dan.md)
 * [Reference](reference.md)
-* [TODO](untitled.md)
+* [Contribute](how-to-contribute.md)
+* [TODO](todo.md)
 * [LOG](log.md)
 
