@@ -1,6 +1,5 @@
 # Table of contents
 
-* [欢迎来到 BUAA-SCSE](README.md)
 * [构建思路 \(给编辑者\)](gou-jian-si-lu-gei-bian-ji-zhe.md)
 * [构建初衷](gou-jian-chu-zhong.md)
 * [一些常识](yi-xie-chang-shi/README.md)
