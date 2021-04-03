@@ -4,8 +4,6 @@ description: 你也在网上冲浪啊
 
 # Reference
 
-
-
 ### 不谈教育
 
 * [**浅谈清华学风、课程内卷、特奖与其他**](https://mp.weixin.qq.com/s/QZHvnRcICYpq8411PxJ78g)

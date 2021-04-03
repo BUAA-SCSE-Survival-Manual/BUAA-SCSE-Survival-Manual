@@ -24,7 +24,7 @@ description: 你航贵系学生生存手册，由计院学生自发维护，目�
 * [永远不该忘记](yong-yuan-bu-gai-wang-ji/)
 * [一份书单](yi-fen-shu-dan.md)
 * [Reference](reference.md)
-* [Contribute](how-to-contribute.md)
+* [👍Contribute](how-to-contribute.md)
 * [TODO](untitled.md)
 * [LOG](log.md)
 
