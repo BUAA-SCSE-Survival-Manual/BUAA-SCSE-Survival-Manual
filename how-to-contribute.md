@@ -44,7 +44,7 @@ gitbook serve
 
 修改后，git add , git commit, git push 三部曲到自己的repo，会看到可以提交PR的提示
 
-![click_pr](\assets\img_click_pr.png)
+![click_pr](/assets/img_click_pr.png)
 
 点击，按照提示填写信息即可。
 
