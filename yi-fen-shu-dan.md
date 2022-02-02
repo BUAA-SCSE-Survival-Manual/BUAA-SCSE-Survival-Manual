@@ -135,8 +135,15 @@ Learn enough tech to be dangerous
 
 **C++**
 
-* 《C++ Primer》
+* 《C++ Primer》推荐
 * 《C++ Primer Plus》读完半本，觉得一般，比较繁琐。
+
+**Objective-C**
+
+*  《objective-C编程》
+*  《深入理解MacOSX&iOS操作系统》
+*  《Effective objective-C》
+*  《iOS编程(第四版)》
 
 **ruby 小众**
 
@@ -185,6 +192,7 @@ Learn enough tech to be dangerous
 ### Them
 
 * [陈立杰](https://zhuanlan.zhihu.com/p/87460515)
+* 楼天城
 * 韩衍隽
 * 范浩强
 * 乔明达
@@ -198,8 +206,3 @@ Learn enough tech to be dangerous
 * [https://github.com/iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) pdfs 4.3k star
 * [https://github.com/woai3c/recommended-books](https://github.com/woai3c/recommended-books) pdfs 直接下载 1.5k star
 * [https://github.com/justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) 69k star
-
-
-
-
-
