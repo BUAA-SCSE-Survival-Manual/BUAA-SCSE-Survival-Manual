@@ -1,0 +1,57 @@
+# This is a basic workflow that is manually triggered
+
+name: auto-build docs
+
+on:
+  push:
+    branches:
+    - main
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  greet:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    
+     - name: Checkout
+       uses: actions/checkout@v2.4.0
+       with:
+         ref: main
+            
+     - name: install nodejs
+       uses: actions/setup-node@v1
+      
+     - name: configue gitbook
+       run: |
+        npm install -g gitbook-cli          
+        gitbook install
+                
+     - name: generate docs folder
+       run: |
+        echo "- Check Status: \n"
+        git status
+        echo "- checkout to main ...."
+        git checkout main
+        git status
+        gitbook build . docs
+                
+     - name: push docs
+       env:
+        TOKEN: ${{ secrets.PAGES_KEY }}
+        REF: github.com/${{github.repository}}
+        MYEMAIL: 1051025929@qq.com                  # ！！记得修改为自己github设置的邮箱
+        MYNAME: ${{github.repository_owner}}          
+       run: |
+        git config --global user.email "${MYEMAIL}"
+        git config --global user.name "${MYNAME}"
+        echo "- Current Branch: \n "
+        git branch
+        echo "- Current Remote: \n"
+        git remote -v
+        git add . 
+        git commit -m "Updated By Github Actions With Build ${{github.run_number}} of ${{github.workflow}} For Github Pages"
+        git push --force --quiet "https://${TOKEN}@${REF}" main:main
